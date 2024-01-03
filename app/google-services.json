@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49826358869",
+    "project_id": "memorygame-68d16",
+    "storage_bucket": "memorygame-68d16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49826358869:android:a32b462f70434e8cc416dc",
+        "android_client_info": {
+          "package_name": "com.example.footballmemory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5pcnVOUuJnkdux379K9PtJDV-Mq99b4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
